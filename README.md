@@ -4,10 +4,10 @@
 The automation tests cover the following scenarios:
 - User registration , login and delete
 
-##Testing Approach and Design Patterns
+## Testing Approach and Design Patterns
 - Page Object Model (POM)
 
-##Technologies Used
+## Technologies Used
 -Playwright with java TestNG
 
 
