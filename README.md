@@ -1,12 +1,12 @@
 # AutomationExercise Project
 
-##Test Scenarios and Cases
-###User registration , login and delete
+Test Scenarios and Cases
+User registration , login and delete
 
-##Testing Approach and Design Patterns
+Testing Approach and Design Patterns
 Page Object Model (POM)
 
-##Technologies Used
+Technologies Used
 Playwright with java TestNG
 
 
